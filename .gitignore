@@ -72,3 +72,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Textures
+*/Texture/*
+*/Textures/*
+*/*/Texture/*
+*/*/Textures/*
+*/*/*/Texture/*
+*/*/*/Textures/*
+*/*/*/*/Texture/*
+*/*/*/*/Textures/*
+*/*/*/*/*/Texture/*
+*/*/*/*/*/Textures/*
+
+# Textures Bash
+AllTextures/
+AllTextures.tar.gz
