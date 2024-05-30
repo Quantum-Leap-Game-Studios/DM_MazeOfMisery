@@ -74,16 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Textures
-*/Texture/*
-*/Textures/*
-*/*/Texture/*
-*/*/Textures/*
-*/*/*/Texture/*
-*/*/*/Textures/*
-*/*/*/*/Texture/*
-*/*/*/*/Textures/*
-*/*/*/*/*/Texture/*
-*/*/*/*/*/Textures/*
 
 # Textures Bash
 AllTextures/
